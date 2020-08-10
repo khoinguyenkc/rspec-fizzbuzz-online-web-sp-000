@@ -11,6 +11,8 @@ def fizzbuzz(int)
     nil
   end
 end
+#dont forget the method has its own end too.
+
 
 hi = fizzbuzz(15)
 puts hi
