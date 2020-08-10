@@ -12,6 +12,7 @@ def fizzbuzz(int)
   end
 end
 #dont forget the method has its own end too.
+#elsif not elseif
 
 
 hi = fizzbuzz(15)
